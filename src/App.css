@@ -37,6 +37,10 @@
   padding: 2em;
 }
 
+.pupInfo {
+  background-color: rgb(14, 80, 80);
+}
+
 .read-the-docs {
   color: #888;
 }
